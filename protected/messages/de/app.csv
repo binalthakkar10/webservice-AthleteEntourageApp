@@ -1,0 +1,223 @@
+password,password
+No,No
+Yes,Yes
+All,All
+Manage,Manage
+List,List
+Create,Create
+Advanced Search,Advanced Search
+Your request is invalid.,Your request is invalid.
+Fields with,Fields with
+are required,are required
+Save,Save
+Search,Suchen
+Your request is invalid.,Your request is invalid.
+{$label},{$label}
+ID,ID
+User Type,User Type
+Firstname,Firstname
+Lastname,Lastname
+Email,Email
+Password,Password
+Retype Password,Retype Password
+Created At,Created At
+Updated At,Updated At
+Logdate,Logdate
+Lognum,Lognum
+Is Active,Is Active
+User Roles,User Roles
+Extra,Extra
+Username,Username
+{attribute} cannot be blank.,{attribute} cannot be blank.
+New Password,New Password
+Repeat New Password,Repeat New Password
+Created By,Created By
+Updated By,Updated By
+User|Users,User|Users
+User Type,User Type
+Fullname,Fullname
+Firstname,Firstname
+Lastname,Lastname
+Email,Email
+Password,Password
+City,City
+State,State
+Country,Country
+Zipcode,Zipcode
+User Lat,User Lat
+User Long,User Long
+Phone,Phone
+Gender,Gender
+Dob,Dob
+Photo,Photo
+Created At,Created At
+Updated At,Updated At
+Logdate,Logdate
+Lognum,Lognum
+Status,Status
+Extra,Extra
+Address1,Address1
+Address2,Address2
+Is Confirm,Is Confirm
+Confirm String,Confirm String
+Parent,Parent
+Tree Level,Tree Level
+Sort Order,Sort Order
+Role Type,Role Type
+Role Name,Role Name
+Role Desc,Role Desc
+Is Publish,Is Publish
+UserRules|UserRules,UserRules|UserRules
+Privileges Controller,Privileges Controller
+Privileges Actions,Privileges Actions
+Role Desc,Role Desc
+Permission,Permission
+Permission Type,Permission Type
+Parent,Parent
+Label,Label
+Url,Url
+Position,Position
+Is Active,Is Active
+Video|Videos,Video|Videos
+Keywords,Keywords
+Created By,Created By
+Updated By,Updated By
+is Home page Banner?,is Home page Banner?
+AdminUser|AdminUsers,AdminUser|AdminUsers
+User Type,User Type
+Firstname,Firstname
+Lastname,Lastname
+Email,Email
+Password,Password
+Created At,Created At
+Updated At,Updated At
+Logdate,Logdate
+Lognum,Lognum
+Is Active,Is Active
+User Roles,User Roles
+Extra,Extra
+CountryMaster|CountryMasters,CountryMaster|CountryMasters
+Country,Country
+Country Code,Country Code
+Country Code Iso3,Country Code Iso3
+Is Publish,Is Publish
+Hosts|Hosts,Hosts|Hosts
+Name,Name
+Description,Description
+Image,Image
+Meta Title,Meta Title
+Meta Keyword,Meta Keyword
+Meta Description,Meta Description
+Pos,Pos
+Created At,Created At
+Updated At,Updated At
+Status,Status
+Items|Items,Items|Items
+Name,Name
+Desc,Desc
+Metakey,Metakey
+Metadesc,Metadesc
+Metadata,Metadata
+Position,Position
+Created At,Created At
+Updated At,Updated At
+Status,Status
+Keywords|Keywords,Keywords|Keywords
+Title,Title
+Meta Title,Meta Title
+Meta Keyword,Meta Keyword
+Meta Description,Meta Description
+Created At,Created At
+Updated At,Updated At
+Hits,Hits
+Status,Status
+Module|Modules,Module|Modules
+Module Code,Module Code
+Version,Version
+Is Publish,Is Publish
+Pages|Pages,Pages|Pages
+Title,Title
+Custom Url Key,Custom Url Key
+Content,Content
+Meta Title,Meta Title
+Meta Keyword,Meta Keyword
+Meta Description,Meta Description
+Pos,Pos
+Created At,Created At
+Updated At,Updated At
+Status,Status
+StateMaster|StateMasters,StateMaster|StateMasters
+Country,Country
+Country Code,Country Code
+State Code,State Code
+State,State
+Is Publish,Is Publish
+SystemConfig|SystemConfigs,SystemConfig|SystemConfigs
+Name,Name
+Value,Value
+Input Type,Input Type
+Input Options,Input Options
+Status,Status
+Position,Position
+SystemGroup|SystemGroups,SystemGroup|SystemGroups
+Name,Name
+Position,Position
+Status,Status
+SystemSection|SystemSections,SystemSection|SystemSections
+Name,Name
+Position,Position
+Status,Status
+Tvshows|Tvshows,Tvshows|Tvshows
+Title,Title
+Meta Title,Meta Title
+Meta Keyword,Meta Keyword
+Meta Description,Meta Description
+Meta Data,Meta Data
+Position,Position
+Publish Up,Publish Up
+Publish Down,Publish Down
+Image,Image
+Is Teaser,Is Teaser
+Hits,Hits
+Status,Status
+Videos|Videoses,Videos|Videos
+Keyword Ids,Keyword Ids
+Title,Title
+Season,Season
+Episode No,Episode No
+Time,Time
+Embed Code,Embed Code
+Type,Type
+Highlights,Highlights
+Meta Title,Meta Title
+Meta Keyword,Meta Keyword
+Meta Description,Meta Description
+Position,Position
+Publish Up,Publish Up
+Approved,Approved
+Publish Down,Publish Down
+Image,Image
+Banner Image,Banner Image
+Is Banner,Is Banner
+Hits,Hits
+Created At,Created At
+Updated At,Updated At
+Status,Status
+VideoType|VideoTypes,VideoType|VideoTypes
+Name,Name
+Status,Status
+Your request is invalid.,Your request is invalid.
+GoogleKeys|GoogleKeys,GoogleKeys|GoogleKeys
+Keyword,Keyword
+GoogleNews|GoogleNews,GoogleNews|GoogleNews
+Date,Date
+Title,Title
+Brief,Brief
+Link,Link
+List,List
+Fields with,Fields with
+are required,are required
+Fields with,Fields with
+are required,are required
+Please fix the following input errors:,Please fix the following input errors:
+Change Password,Change Password

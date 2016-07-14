@@ -1,0 +1,14 @@
+/* Custom Developer Document */
+.orbit-content {float:right;  }
+
+.slider-title {font-weight: bold; font-size: 16px;}
+.slider-desc {font-weight: bold; font-size: 14px;}
+.view-btn {left: clear; top: clear;}
+
+
+.host-image {     float: left;    padding: 3px;    width: 128px; height:154px; border:solid 1px #dbdbdb; background:#fff;  }
+.host-image img { width: 128px; }
+.host-name{ float:left; width: 100%; margin-bottom:3px; font-size:18px; font-weight:bold}
+.host-desc{ float:left; width: 100%; margin-bottom:5px;}
+.host-show-img {float:left; height:160px; }
+.host-show-img a { display:table-cell; height: 160px; vertical-align:middle;}
